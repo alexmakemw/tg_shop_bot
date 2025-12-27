@@ -16,7 +16,7 @@ Telegram-бот для интернет-магазина электроинст�
 
 ### 1. Установите зависимости:
 - ```bash
-- pip install pytelegrambotapi
+  pip install pytelegrambotapi
 
 ### 2. Получите токен у [@BotFather](https://t.me/BotFather) в Telegram
 
